@@ -1,0 +1,16 @@
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\bin\Debug\net5.0\MydotnetApp.exe
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\bin\Debug\net5.0\MydotnetApp.deps.json
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\bin\Debug\net5.0\MydotnetApp.runtimeconfig.json
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\bin\Debug\net5.0\MydotnetApp.runtimeconfig.dev.json
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\bin\Debug\net5.0\MydotnetApp.dll
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\bin\Debug\net5.0\ref\MydotnetApp.dll
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\bin\Debug\net5.0\MydotnetApp.pdb
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\obj\Debug\net5.0\MydotnetApp.csprojAssemblyReference.cache
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\obj\Debug\net5.0\MydotnetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\obj\Debug\net5.0\MydotnetApp.AssemblyInfoInputs.cache
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\obj\Debug\net5.0\MydotnetApp.AssemblyInfo.cs
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\obj\Debug\net5.0\MydotnetApp.csproj.CoreCompileInputs.cache
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\obj\Debug\net5.0\MydotnetApp.dll
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\obj\Debug\net5.0\ref\MydotnetApp.dll
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\obj\Debug\net5.0\MydotnetApp.pdb
+C:\Users\vanda\OneDrive\Desktop\MydotnetApp\obj\Debug\net5.0\MydotnetApp.genruntimeconfig.cache
